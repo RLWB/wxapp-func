@@ -12,5 +12,11 @@ Page({
     wx.navigateTo({
       url: '/pages/slideLeftDel/slideLeftDel',
     })
+  },
+  //跳转webview页面
+  toWebview() {
+    wx.navigateTo({
+      url: '/pages/webview/webview?url=' + 'https://h5.m.taobao.com',
+    })
   }
 })

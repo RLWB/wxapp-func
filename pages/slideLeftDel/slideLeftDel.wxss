@@ -7,7 +7,7 @@
 
 .slider {
   width: 750rpx;
-  background: #fff;
+  background: #eee;
   height: 100rpx;
   z-index: 99;
 }

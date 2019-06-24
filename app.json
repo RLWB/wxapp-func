@@ -3,7 +3,8 @@
     "pages/home/home",
     "pages/index/index",
     "pages/logs/logs",
-    "pages/slideLeftDel/slideLeftDel"
+    "pages/slideLeftDel/slideLeftDel",
+    "pages/webview/webview"
   ],
   "window": {
     "backgroundTextStyle": "light",

@@ -1,1 +1,2 @@
 <button bindtap="toLeftSlideDel">左滑删除</button>
+<button bindtap="toWebview">跳转webview</button>
