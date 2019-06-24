@@ -1,0 +1,27 @@
+/* pages/slideLeftDel/slideLeftDel.wxss */
+.slider-wrap {
+  width: 650rpx;
+  height: 100rpx;
+  background: #ff0000;
+}
+
+.slider {
+  width: 750rpx;
+  background: #fff;
+  height: 100rpx;
+  z-index: 99;
+}
+
+.slider-del-btn {
+  width: 100rpx;
+  height: 100rpx;
+  background: #ff0000;
+  position: absolute;
+  right: -100rpx;
+  top: 0;
+  z-index: 9;
+  line-height: 100rpx;
+  text-align: center;
+  font-size: 24rpx;
+  color: #fff;
+}

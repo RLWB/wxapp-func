@@ -1,0 +1,1 @@
+<button bindtap="toLeftSlideDel">左滑删除</button>

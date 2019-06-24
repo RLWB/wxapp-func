@@ -1,0 +1,16 @@
+<view class="slideLeftDel">
+  <movable-area class="slider-wrap">
+    <movable-view
+    x="{{x}}"
+    class="slider"
+    direction="horizontal"
+    bindchange="change"
+    bindtouchstart='touchStart'
+    bindtouchend='touchEnd'
+    inertia="true"
+    >
+      <view>1234</view>
+    </movable-view>
+    <view class="slider-del-btn">删除</view>
+  </movable-area>
+</view>
