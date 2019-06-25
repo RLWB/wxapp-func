@@ -1,6 +1,7 @@
 {
   "pages": [
     "pages/home/home",
+    "pages/share/share",
     "pages/index/index",
     "pages/logs/logs",
     "pages/slideLeftDel/slideLeftDel",

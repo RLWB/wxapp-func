@@ -18,5 +18,11 @@ Page({
     wx.navigateTo({
       url: '/pages/webview/webview?url=' + 'https://h5.m.taobao.com',
     })
+  },
+  //跳转share页面
+  toShare() {
+    wx.navigateTo({
+      url: '/pages/share/share',
+    })
   }
 })
